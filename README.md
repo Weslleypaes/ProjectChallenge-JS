@@ -14,7 +14,7 @@ Empatando.
 </br>
 </br>
 <h3>Drum Challenge</h3>
-Consiste em um site básico no qual nos é disponibilizado um kit de bateria com diferentes sons, sons esse que podem ser acesado por meio de cliques do mouse, ou por meio do teclado.
+Consiste em um site básico no qual é disponibilizado um kit de bateria com diferentes sons, sons esse que podem ser acesado por meio de cliques do mouse, ou por meio do teclado.
 
 ![Captura de tela de 2022-10-25 11-26-19](https://user-images.githubusercontent.com/95313382/197800918-41785164-a1be-44d7-821c-25ce596d0c22.png)
 </br>
